@@ -10,6 +10,7 @@ _Vae的日记
 
 ### 最新
 
+* [ubuntu 禁用root和密码登录，使用密钥对登录](https://blog.yhc168.cn/articles/2019/11/18/1574065811831.html)
 * [ubuntu 18.04 安装zsh之后，使用vim+tab会出现  _arguments:450: _vim_files: function definition file not found](https://blog.yhc168.cn/articles/2019/11/13/1573616912601.html)
 
 
